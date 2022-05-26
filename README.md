@@ -19,11 +19,11 @@ Password : password
 
 ## Sacreenshots
 
-
-![2022-05-26 16_34_11-Laravel-Assessment-Task-01](https://user-images.githubusercontent.com/46774729/170476106-28c3c449-a88c-4474-a156-df6df37f73af.png)
-![2022-05-26 16_34_32-Laravel-Assessment-Task-01](https://user-images.githubusercontent.com/46774729/170476111-e93de450-4391-42fc-aa07-2c93bf3bf1d6.png)
-![2022-05-26 16_34_48-Laravel-Assessment-Task-01](https://user-images.githubusercontent.com/46774729/170476116-692e1082-8abf-4f43-8355-d9db0cd8590e.png)
-![2022-05-26 16_32_57-Laravel-Assessment-Task-01](https://user-images.githubusercontent.com/46774729/170476121-269d7a6a-ffc8-499d-9900-56b081fb2731.png)
-![2022-05-26 16_33_04-Laravel-Assessment-Task-01](https://user-images.githubusercontent.com/46774729/170476127-72cf387e-1aac-414c-8dce-211c260ee8ff.png)
-![2022-05-26 16_33_43-Settings](https://user-images.githubusercontent.com/46774729/170476129-caa939d0-d577-4012-aae5-de191cf1299a.png)
-![2022-05-26 16_33_54-Settings](https://user-images.githubusercontent.com/46774729/170476131-ba639c1d-ae81-444a-9913-7c1855ff4ece.png)
+ 
+![07](https://user-images.githubusercontent.com/46774729/170476398-e1d7af53-6177-462e-ac69-f3788c4de45c.png)
+![01](https://user-images.githubusercontent.com/46774729/170476402-b7c2138c-1e04-4466-a5e0-9b37f080aa5c.png)
+![02](https://user-images.githubusercontent.com/46774729/170476407-79619252-ae9a-401c-978c-d24bc7f6dcd0.png)
+![03](https://user-images.githubusercontent.com/46774729/170476410-71df2ae5-edf4-4e75-a65f-f2a9d54afaaa.png)
+![04](https://user-images.githubusercontent.com/46774729/170476413-6340e40a-31c0-41ac-b9b6-627b3260870c.png)
+![05](https://user-images.githubusercontent.com/46774729/170476415-132752b8-5232-41fb-b040-1e8a86209dde.png)
+![06](https://user-images.githubusercontent.com/46774729/170476418-196cc7a1-a3f5-4826-92c3-4c3a40a471c5.png)
