@@ -14,6 +14,6 @@ Password : password
 
 ## Steps
  
-
+- Run command "composer install" 
 - Run command "php artisan migrate:refresh --seed" 
  
